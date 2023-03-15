@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Generator-Classes/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Generator-Classes/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Inheritance-Mapping/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Inheritance-Mapping/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hiberante-hql/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hiberante-hql/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hiberante-relationship-mapping/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hiberante-relationship-mapping/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hibernate-date-time/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hibernate-date-time/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hibernate-java-configuration/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hibernate-java-configuration/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hibernate-naming-table-columns/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hibernate-naming-table-columns/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hibernate-xml-configuration/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hibernate-xml-configuration/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
