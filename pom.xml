@@ -20,6 +20,7 @@
         <module>NamedQuery</module>
         <module>NativeSQL</module>
         <module>Criteria-API</module>
+        <module>Stored-procedure</module>
     </modules>
     <dependencies>
         <dependency>
@@ -57,7 +58,7 @@
         <dependency>
             <groupId>net.datafaker</groupId>
             <artifactId>datafaker</artifactId>
-            <version>1.0.0</version>
+            <version>1.8.1</version>
         </dependency>
 
     </dependencies>

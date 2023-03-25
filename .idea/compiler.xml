@@ -16,6 +16,7 @@
         <module name="NamedQuery" />
         <module name="hibernate-java-configuration" />
         <module name="NativeSQL" />
+        <module name="Stored-procedure" />
         <module name="Inheritance-Mapping" />
         <module name="hiberante-hql" />
       </profile>
