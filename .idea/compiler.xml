@@ -8,11 +8,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="hibernate-naming-table-columns" />
+        <module name="Criteria-API" />
         <module name="hibernate-date-time" />
         <module name="Generator-Classes" />
         <module name="hibernate-xml-configuration" />
         <module name="hiberante-relationship-mapping" />
+        <module name="NamedQuery" />
         <module name="hibernate-java-configuration" />
+        <module name="NativeSQL" />
         <module name="Inheritance-Mapping" />
         <module name="hiberante-hql" />
       </profile>

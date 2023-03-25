@@ -17,6 +17,9 @@
         <module>Inheritance-Mapping</module>
         <module>hiberante-relationship-mapping</module>
         <module>hiberante-hql</module>
+        <module>NamedQuery</module>
+        <module>NativeSQL</module>
+        <module>Criteria-API</module>
     </modules>
     <dependencies>
         <dependency>
